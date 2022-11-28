@@ -1,0 +1,25 @@
+{{ define "main" }}
+<main aria-role="main">
+    <div class="wl-person-list-hero uk-container-expand uk-position-relative">
+        <div class=" uk-container uk-text-large uk-column-1-2@l">
+            {{.Content}}
+        </div>
+        <img src='{{ (resources.Get "img/brush-stroke.svg").RelPermalink }}'
+            style="position: absolute; bottom: -2vw;" />
+    </div>
+    <div class="uk-container">
+        <div class="uk-child-width-1-3" uk-grid>
+            {{ range .Pages }}
+            <div class="wl-person-teaser">
+                {{ with .Parent.Resources.Get (print .File.TranslationBaseName ".jpg") }}
+                {{ $img := .Fill "200x200 Lanczos TopLeft" }}
+                <img class="uk-border-circle"  src="data:{{ .MediaType}};base64,{{ $img.Content | base64Encode }}" alt="{{ .Title }} icon">
+                {{end}}
+                <h3>{{.Title}}</h3>
+                <div>{{.Params.role}}</div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</main>
+{{ end }}

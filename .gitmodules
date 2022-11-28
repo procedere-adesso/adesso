@@ -1,0 +1,3 @@
+[submodule "themes/wl-theme"]
+	path = themes/wl-theme
+	url = https://github.com/procedere-adesso/wl-theme/
