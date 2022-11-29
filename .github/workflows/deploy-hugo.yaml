@@ -32,10 +32,19 @@ jobs:
     env:
       HUGO_VERSION: 0.107.0
     steps:
-      - name: Install Hugo CLI
+      - name: Cache Hugo Deb
+        uses: actions/cache@v2
+        id: cache-hugo
+        with:
+          path: ${{ runner.temp }}
+          key: hugo-${{ env.HUGO_VERSION }}
+      - name: Fetch Hugo Deb
+        if: steps.cache-hugo.outputs.cache-hit != 'true'
         run: |
-          wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
-          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+            wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb
+      - name: Install Hugo
+        run: |
+            sudo dpkg -i ${{ runner.temp }}/hugo.deb
       - name: Checkout
         uses: actions/checkout@v3
         with:
