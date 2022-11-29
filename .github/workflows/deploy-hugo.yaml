@@ -43,6 +43,8 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v2
+        with:
+          static_site_generator: hugo
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
