@@ -45,6 +45,9 @@ jobs:
         uses: actions/configure-pages@v2
         with:
           static_site_generator: hugo
+          generator_config_file: config.yaml
+          token: ${{ secrets.GITHUB_TOKEN }}
+          enablement: true
       - name: Build with Hugo
         env:
           # For maximum backward compatibility with Hugo modules
