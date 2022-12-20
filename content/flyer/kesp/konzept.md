@@ -2,6 +2,12 @@
 Title: Besuchsrecht
 Date: 2022-10-10
 Weight: 1
+Contact: vorname_nachname_2
+Downloads: 
+    - Title: Besuchsrecht<br/>Details
+      HRef: besuchsrecht.pdf
+    - Title: Angebote<br/>Details
+      HRef: angebote.pdf
 ---
 Zusammenfassung der Angebote. Weit hinten,
 hinter den Wortbergen, fern der Länder Vokalien

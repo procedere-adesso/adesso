@@ -3,6 +3,7 @@ Title: Vorname Nachname 2
 Date: 2022-10-10
 role: Mitarbeiterin
 email: vorname@example.ch
+phone: 012 345 67 89
 edu: 
     - Dipl. Sozialpädagogin HF
     - Fachfrau für Sozialarbeit
