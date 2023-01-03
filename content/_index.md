@@ -1,6 +1,11 @@
 ---
 Title: "Hello World this is a test"
 Date: 2022-11-02
+HeroImages:
+    - abkl.jpg
+    - ange.jpg
+    - kesb.jpg
+    - sofa.jpg
 ---
 
 Einleitende Worte (ca. 50 Wörter) Weit hinten,
