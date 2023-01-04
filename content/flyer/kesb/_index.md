@@ -1,5 +1,5 @@
 ---
-Title: Kindes- & Erwachsenen­schutz­mandate
+Title: Kindes- & Erwachsenen-<br/>schutz­mandate
 Date: 2022-10-10
 Weight: 1
 intro: |

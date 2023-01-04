@@ -1,5 +1,5 @@
 ---
-Title: Weitere Angebote
+Title: Weitere<br/>Angebote
 Date: 2022-10-10
 Weight: 4
 intro: |
