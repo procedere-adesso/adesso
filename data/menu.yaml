@@ -1,10 +1,15 @@
 - title: Kindes- & Erwachsenen-<br>schutzmandate
+  mobile_title: Kindes- & Erwachsenenschutzmandate
   autosub: /flyer/kesb
 - title: Sozialpädagogische<br>Familienbegleitung
-  autosub: /flyer/sofa
+  mobile_title: Sozialpädagogische Familienbegleitung
+  autosub: /flyer/spf
 - title: Abklärungen<br>&nbsp;
+  mobile_title: Abklärungen
   autosub: /flyer/abkl
 - title: Weitere<br>Angebote
+  mobile_title: Weitere Angebote
   autosub: /flyer/ange
 - title: Team<br>Grundsätze
+  mobile_title: Team Grundsätze
   href: /team

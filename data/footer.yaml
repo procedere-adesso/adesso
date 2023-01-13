@@ -1,13 +1,21 @@
 - column: |
    Adesso Sozialberatung\
+   Sonneggstrasse 11, 4600 Olten\
    Tel 123 456 78 90\
-   E-Mail: <gugus@adesso.ch>\
+   E-Mail <gugus@adesso.ch>\
    [Impressum](/impressum), [Datenschutz](/datenschutz)
 - column: |
-   Öffnungszeiten\
-   Montag bis Freitag 08:00 - 12:00 Uhr\
-   Dienstag 13:30 - 17:30 Uhr\
-   Donnerstag 13:30 - 19:00 Uhr
+   Direktkontakt Vorname Name\
+   Kategorie/Unterkategorie\
+   Tel 123 456 78 90\
+   E-Mail <gugus@adesso.ch>
+- column: | 
+   Direktkontakt Vorname Name\
+   Kategorie/Unterkategorie\
+   Tel 123 456 78 90\
+   E-Mail <gugus@adesso.ch>
 - column: |
-   Notfall Sozialberatung\
-   Tel 123 456 78 90
+   Direktkontakt Vorname Name\
+   Kategorie/Unterkategorie\
+   Tel 123 456 78 90\
+   E-Mail <gugus@adesso.ch>
