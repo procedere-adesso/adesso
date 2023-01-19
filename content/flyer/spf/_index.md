@@ -1,5 +1,5 @@
 ---
-Title: Sozialpädagogische Familienbegleitung
+Title: Sozialpädagogische<br/>Familienbegleitung
 Date: 2022-10-10
 Weight: 2
 intro: |

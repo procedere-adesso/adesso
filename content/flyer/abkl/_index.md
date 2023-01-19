@@ -1,5 +1,5 @@
 ---
-Title: Abklärungen<br/>und so
+Title: Abklärungen<br/>
 Date: 2022-10-10
 Weight: 3
 intro: |
