@@ -4,3 +4,4 @@ theme: wl-theme
 relativeURLs: true
 params:
   logo: adesso_logo.svg
+  favicon: adesso_favicon.png
