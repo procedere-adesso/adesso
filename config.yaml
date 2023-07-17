@@ -5,3 +5,5 @@ relativeURLs: true
 params:
   logo: adesso_logo.svg
   favicon: adesso_favicon.png
+imaging:
+  quality: 85
