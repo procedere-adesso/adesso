@@ -1,12 +1,8 @@
 ---
-Title: "Hello World this is a test"
+Title: Homepage
 Date: 2022-11-02
 ---
 
-Einleitende Worte (ca. 50 Wörter) Weit hinten,
-hinter den Wortbergen, fern der Länder Vokalien
-und Konsonantien leben die Blindtexte. 
-Abgeschieden wohnen Sie in Buchstabhausen an der Küste
-des Semantik, eines großen Sprach-ozeans. Ein
-kleines Bächlein namens Duden fließt durch ihren
-Ort und versorgt sie mit den nötigen Regelialien.
+Wir unterstützen Fachbehörden mit rascher und effizienter Erhebung der Gefährdungssituation und bieten Unterstützung bei umfassenden Abklärungen, Beratungen und Mandatsführungen im Kindes- und Erwachsenenschutz. Unsere Angebote bieten sich als Entlastung bzw. Ergänzung für Fachstellen, Sozialregionen und Behörden an. 
+Wir sind ein unabhängiges Unternehmen, welches die Ressourcen effizient und nachhaltig einsetzt. 
+

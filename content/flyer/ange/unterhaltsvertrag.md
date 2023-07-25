@@ -1,23 +1,32 @@
 ---
-Title: Unterhaltsvertrag
+Title: Unterhaltsvertrag für nicht verheiratete Eltern
 Date: 2022-10-10
+Contact: chrige_1
 Weight: 1
+Downloads:
+    - Title: Unterhaltsvertrag<br/>PDF Flyer mit Detailbeschreibung
+      HRef: ../../unterhaltsvertrag-flyer.pdf
+    - Title: Härtefallgesuch Infoblatt<br/>PDF Dokument
+      HRef: ../../haertefall-infoblatt.pdf
+    - Title: Härtefallgesuch Formuar<br/>Word Dokument
+      HRef: ../../haertefall-gesuch.docx
+    - Title: Merkblatt Kindesunterhalt<br/>PDF Dokument
+      HRef: ../../merkblatt-kindesunterhalt.pdf
 ---
-Zusammenfassung der Angebote. Weit hinten,
-hinter den Wortbergen, fern der Länder Vokalien
-und Konsonantien leben die Blindtexte.
-Abgeschieden wohnen Sie in Buchstabhausen an
-der Küste des Semantik, eines großen
+Der Unterhaltsvertrag für unverheiratete Eltern
 
-Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und Konsonantien
-leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an der Küste des
-Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens Duden fließt
-durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein
-paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliegen.
+Seit dem 01. Januar 2017 ist das neue Unterhaltsrecht in Kraft getreten. Die
+wohl wichtigste Änderung ist, dass die hauptbetreuende Person neu
+Anrecht auf Betreuungsunterhalt hat. Die Kinder sollen somit, im Vergleich
+zu verheirateten Eltern, gleichgestellt werden.
 
-Nicht einmal von der allmächtigen Interpunktion werden die Blindtexte
-beherrscht.Weit hinten, hinter den Wortbergen, fern der Länder Vokalien und
-Konsonantien leben die Blindtexte. Abgeschieden wohnen Sie in Buchstabhausen an
-der Küste des Semantik, eines großen Sprachozeans. Ein kleines Bächlein namens
-Duden fließt durch ihren Ort und versorgt sie mit den nötigen Regelialien. Es ist ein
-paradiesmatisches Land, in dem einem gebratene Satzteile in den Mund fliege
+Die Eltern tragen zusammen die Hauptverantwortung, um für den
+Unterhalt ihrer Kinder aufzukommen. Jeder Elternteil muss nach seinen
+Möglichkeiten, seinen Teil dazu beitragen. Zum Kinderunterhalt zählen
+die Betreuung, Pflege und Erziehung des Kindes, aber auch Auslagen für
+Essen, Bekleidung, Wohnen, Gesundheit, Freizeitaktivitäten oder
+Kindesschutzmassnahmen.
+
+Bei einer Trennung der Eltern soll weiterhin gewährleistet werden können,
+dass beide Elternteile für den Unterhalt ihrer gemeinsamen Kinder
+aufkommen.
