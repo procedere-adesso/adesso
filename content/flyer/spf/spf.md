@@ -8,6 +8,8 @@ Downloads:
       HRef: ../spf-flyer.pdf
     - Title: SPF Treppe<br/>grafische Darstellung des Angebots
       HRef: ../spf-flyer.pdf
+    - Title: SPF Auftragsbestätigung<br/>Word Formular
+      HRef: ../spf-auftragsbestaetigung.docx
     - Title: Tarife<br/>der Dienstleistung
       HRef: ../../tarife.pdf
 ---
