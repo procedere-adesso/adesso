@@ -1,5 +1,6 @@
 ---
 title: Riana Baumberger
+sort: Baumberger Riana
 date: 2023-07-06
 role: Familienbegleiterin
 email: riana.baumberger@adesso-sozialberatung.ch

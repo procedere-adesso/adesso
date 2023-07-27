@@ -1,5 +1,6 @@
 ---
 title: Manuela Volger
+sort: Volger Manuela
 date: 2023-07-06
 role: Berufsbeiständin
 email: manuela.volger@adesso-sozialberatung.ch

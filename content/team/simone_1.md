@@ -1,5 +1,6 @@
 ---
 title: Simone Hitz
+sort: Hitz Simone
 date: 2023-07-06
 role: Familienbegleiterin
 email: simone.hitz@adesso-sozialberatung.ch

@@ -1,5 +1,6 @@
 ---
 title: Sarah Schneider
+sort: Schneider Sarah
 date: 2023-07-06
 role: Assistentin im Sozialbereich
 email: sarah.schneider@adesso-sozialberatung.ch

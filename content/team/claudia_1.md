@@ -1,5 +1,6 @@
 ---
 title: Claudia Meschi
+sort: Meschi Claudia
 date: 2023-07-06
 role: Geschäftsführerin
 email: claudia.meschi@adesso-sozialberatung.ch

@@ -1,5 +1,6 @@
 ---
 title: Cristina Battista
+sort: Battista Cristina
 date: 2023-07-06
 role: Haushaltstrainerin
 email: 

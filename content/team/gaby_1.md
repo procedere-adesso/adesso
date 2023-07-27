@@ -1,5 +1,6 @@
 ---
 title: Gaby Jeker
+sort: Jeker Gaby
 date: 2023-07-06
 role: Berufsbeiständin
 email: gaby.jeker@adesso-sozialberatung.ch

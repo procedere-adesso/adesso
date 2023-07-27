@@ -1,5 +1,6 @@
 ---
 title: Andrea Hächler
+sort: Hachler Andrea
 date: 2023-07-06
 role: Familienbegleiterin
 email: andrea.haechler@adesso-sozialberatung.ch

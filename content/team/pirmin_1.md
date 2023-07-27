@@ -1,5 +1,6 @@
 ---
 title: Pirmin Scheidegger
+sort: Scheidegger Pirmin
 date: 2023-07-06
 role: Familienbegleiter
 email: pirmin.scheidegger@adesso-sozialberatung.ch
