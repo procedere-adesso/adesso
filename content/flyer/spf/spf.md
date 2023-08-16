@@ -8,10 +8,8 @@ Downloads:
       HRef: ../spf-flyer.pdf
     - Title: SPF Treppe<br/>grafische Darstellung des Angebots
       HRef: ../spf-flyer.pdf
-    - Title: SPF Auftragsbestätigung<br/>Word Formular
-      HRef: ../spf-auftragsbestaetigung.docx
-    - Title: Tarife<br/>der Dienstleistung
-      HRef: ../../tarife.pdf
+    - Title: SPF Anmeldung<br/>Word Formular
+      HRef: ../spf-anmeldung.docx
 ---
 
 Ziele der Sozialpädagogischen Familienbegleitung – Lösungen suchen, Veränderungen gemeinsam in Bewegung setzen

@@ -5,12 +5,8 @@ Weight: 1
 Downloads: 
     - Title: Gefärdungsabklärungen<br/>Flyer mit Detailbeschreibung
       HRef: ../abklaerungen-flyer.pdf
-    - Title: Tarife<br/>der Dienstleistung
-      HRef: ../../tarife.pdf
 
 ---
-
-## Gefährdungsabklärung
 
 Die Abklärungen erfolgen nach standardisierten Vorlagen. Sie geben
 Auskunft über die aktuelle Situation, erfassen Schutz- und Risikofaktoren

@@ -10,6 +10,9 @@
 - title: Unterhaltsvertrag<br>&nbsp;
   mobile_title: Unterhaltsvertrag
   autosub: /flyer/ange
-- title: Team<br>Kontakt
-  mobile_title: Team und Kontakt
-  href: /team
+- title: Über uns<br>&nbsp;
+  mobile_title: Über uns
+  sub:
+    - /haus
+    - /team
+    - /stellen

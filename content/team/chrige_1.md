@@ -2,7 +2,7 @@
 title: Christa Apolloni
 sort: Apolloni Christa
 date: 2023-07-06
-role: Teamleiterin Administration, Assistentin der Geschäftsführerin
+role: Teamleiterin Administration
 email: christa.apolloni@adesso-sozialberatung.ch
 phone: 062 207 00 10
 edu:
