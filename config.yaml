@@ -6,4 +6,7 @@ params:
   logo: adesso_logo.svg
   favicon: adesso_favicon.png
 imaging:
-  quality: 85
+  quality: 90
+  resampleFilter: Lanczos
+  hint: picture
+  anchor: Top
