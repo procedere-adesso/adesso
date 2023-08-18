@@ -5,5 +5,5 @@ Weight: 1
 Contact: claudia_1
 
 ---
-Wir führen Beistandschaften im Auftrag von Kindes- und Erwachsenenschutzbehörde,  Unsere Mitarbeitenden sind erfahrene Berufsbeistände und Berufsbeiständinnen mit Zusatzqualifikationen, 
+Wir führen Beistandschaften im Auftrag von Kindes- und Erwachsenenschutzbehörde.  Unsere Berufsbeiständinnen sind erfahrene Sozialarbeiterinnen mit Zusatzqualifikationen. 
 Handlungsleitend in unserer Arbeit ist die Würde und Achtung der betreuten Menschen.
