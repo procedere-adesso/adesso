@@ -8,6 +8,8 @@ Downloads:
       HRef: tarife.pdf
     - Title: Leidbild<br/>PDF Download
       HRef: leitbild.pdf
+    - Title: Organigramm<br/>PDF Download
+      HRef: 2023.08_Organigramm_adesso.pdf
 ---
 Wir freuen uns, Sie in unserem schönen Bürohaus im Wohnquartier Fustlig/Säli auf der rechten Aareseite in Olten begrüssen zu dürfen.
 
@@ -20,4 +22,4 @@ Wir freuen uns, Sie in unserem schönen Bürohaus im Wohnquartier Fustlig/Säli 
 
 ## Das Bürohaus
 
-![Bürohaus](img/haus.jpg?w=800&c=1&f=webp&c=ui-image)
+![Bürohaus](img/haus.jpg?w=800&f=webp&c=ui-image)
