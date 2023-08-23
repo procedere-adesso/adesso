@@ -6,7 +6,7 @@ Type: flyer
 Downloads: 
     - Title: Tarife<br/>PDF Download
       HRef: tarife.pdf
-    - Title: Leidbild<br/>PDF Download
+    - Title: Leitbild<br/>PDF Download
       HRef: leitbild.pdf
     - Title: Organigramm<br/>PDF Download
       HRef: 2023.08_Organigramm_adesso.pdf
