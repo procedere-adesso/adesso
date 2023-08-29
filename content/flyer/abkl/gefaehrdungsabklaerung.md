@@ -12,6 +12,9 @@ Die Abklärungen erfolgen nach standardisierten Vorlagen. Sie geben
 Auskunft über die aktuelle Situation, erfassen Schutz- und Risikofaktoren
 und zeigen Handlungsbedarf und Perspektiven auf.
 
+Für Behörden, Gerichte und Ämter führen wir umfassende Abklärungen im
+Bereich des Kindes- und Erwachsenenschutzes durch.
+
 Bei der Abklärung der Familiensituation steht das Kindswohl im Fokus
 verbunden mit dem Bestreben, die Ressourcen der Eltern zu stärken und
 zu fördern, damit Ihre Rechte so wenig wie möglich eingeschränkt werden
