@@ -1,5 +1,6 @@
 ---
 Title: Unser Bürohaus
+NoTitle: true
 Date: 2023-08-16
 Weight: 3
 Type: flyer
