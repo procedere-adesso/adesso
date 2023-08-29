@@ -17,7 +17,7 @@ Downloads:
 
 Kombination von Diagnostik, Beratung und Intervention
 
-* Situationseinschätzungen, Unterstützungsmassnahmen, Erprobungsphasen,<br/>Treffen von Vereinbarungen
+* Situationseinschätzungen, Unterstützungsmassnahmen, Erprobungsphasen,<br/> Treffen von Vereinbarungen
 * Abschliessende Analyse und Bewertung des Begleitprozesses
 * Empfehlungen zum weiteren Vorgehen
 * Abschlussbericht
