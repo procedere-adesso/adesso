@@ -66,9 +66,9 @@ jobs:
           HUGO_ENV: production
         run: |
           hugo
-          eval `ssh-agent -s`
-          ssh-add - <<< "${{ secrets.DEPLOY_KEY }}"
-          rsync -e 'ssh -p ${{ secrets.DEPLOY_PORT }}' --archive --delete --exclude "*.jpg" public/* adesso@${{ secrets.DEPLOY_HOST }}:
+          eval $(ssh-agent -s)
+          ssh-add - <<< '${{ secrets.DEPLOY_KEY }}'
+          rsync -e 'ssh -v -p ${{ secrets.DEPLOY_PORT }}' --archive --delete --exclude '*.jpg' public/* adesso@${{ secrets.DEPLOY_HOST }}:
 
 #      - name: Upload artifact
 #        uses: actions/upload-pages-artifact@v1
