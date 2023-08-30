@@ -72,6 +72,8 @@ jobs:
         with:
           switches: --archive --delete --exclude "*.jpg"
           path: public/
+          # note the real destionation is set with rrsync
+          # on the target host
           remote_path: .
           remote_host: ${{ secrets.DEPLOY_HOST }}
           remote_user: adesso
