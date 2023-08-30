@@ -66,19 +66,9 @@ jobs:
           HUGO_ENV: production
         run: |
           hugo
-          find public -name "*.jpg" -exec rm {} \;
-      - name: Deploy
-        uses: burnett01/rsync-deployments@6.0.0
-        with:
-          switches: --archive --delete --exclude "*.jpg"
-          path: public/
-          # note the real destionation is set with rrsync
-          # on the target host
-          remote_path: .
-          remote_host: ${{ secrets.DEPLOY_HOST }}
-          remote_user: adesso
-          remote_port: ${{ secrets.DEPLOY_PORT }}
-          remote_key: ${{ secrets.DEPLOY_KEY }}
+          eval `ssh-agent -s`
+          ssh-add - <<< "${{ secrets.DEPLOY_KEY }}"
+          rsync --port=${{ secrets.DEPLOY_PORT }} --archive --delete --exclude "*.jpg" public/* adesso@${{ secrets.DEPLOY_HOST }}:
 
 #      - name: Upload artifact
 #        uses: actions/upload-pages-artifact@v1
