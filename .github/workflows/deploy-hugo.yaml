@@ -72,7 +72,7 @@ jobs:
         with:
           switches: --archive --delete --exclude "*.jpg"
           path: public/
-          remote_path: public_html_new/
+          remote_path: .
           remote_host: ${{ secrets.DEPLOY_HOST }}
           remote_user: adesso
           remote_port: ${{ secrets.DEPLOY_PORT }}
