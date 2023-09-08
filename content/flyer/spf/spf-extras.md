@@ -9,7 +9,7 @@ Downloads:
     - Title: SPF mit HTA<br/>Flyer mit Detailbeschreibung
       HRef: ../spf-hta-flyer.pdf
     - Title: SPW<br/>Flyer mit Detailbeschreibung
-      HRef: ../spw-flyer.pdf
+      HRef: ../5_2023.09_SPW_Flyer.pdf
 
 ---
 
