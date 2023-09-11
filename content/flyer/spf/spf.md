@@ -7,7 +7,7 @@ Downloads:
     - Title: SPF<br/>Flyer mit Detailbeschreibung
       HRef: ../spf-flyer.pdf
     - Title: SPF Treppe<br/>grafische Darstellung des Angebots
-      HRef: ../spf-flyer.pdf
+      HRef: ../spf-treppe.pdf
     - Title: SPF Anmeldung<br/>Word Formular
       HRef: ../2023.08_Anmeldung_SPF.docx
 ---

@@ -10,7 +10,7 @@ Downloads:
   - Title: Besuchssontage<br/>Konzept Papier Kt. Solothurn
     HRef: ../bbs-konzept-so.pdf
   - Title: Besuchssonntage Olten<br/>Daten 2023
-    HRef: ../bbs-olten-daten-2023.pdf
+    HRef: ../bbs-olten-termine.pdf
   - Title: Besuchssonntage Olten<br/>Merblatt (DOCX)
     HRef: ../bbs-olten-merkblatt.docx
   - Title: Besuchssonntage Olten<br/>Anmeldeformular (DOCX)
