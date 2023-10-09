@@ -6,7 +6,7 @@ Weight: 3
 Type: flyer
 Downloads: 
     - Title: Tarife<br/>PDF Download
-      HRef: 2023.08_Tarife.pdf
+      HRef: 2023.10 Tarife.pdf
     - Title: Leitbild<br/>PDF Download
       HRef: leitbild.pdf
     - Title: Organigramm<br/>PDF Download
