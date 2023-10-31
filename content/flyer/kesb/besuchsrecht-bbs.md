@@ -11,6 +11,8 @@ Downloads:
     HRef: ../bbs-konzept-so.pdf
   - Title: Besuchssonntage Olten<br/>Daten 2023
     HRef: ../bbs-olten-daten-2023.pdf
+  - Title: Besuchssonntage Olten<br/>Daten 2024
+    HRef: ../2024-BB-Olten-Daten.pdf    
   - Title: Besuchssonntage Olten<br/>Merblatt (DOCX)
     HRef: ../bbs-olten-merkblatt.docx
   - Title: Besuchssonntage Olten<br/>Anmeldeformular (DOCX)
