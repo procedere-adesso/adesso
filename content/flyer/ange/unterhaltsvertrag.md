@@ -8,7 +8,7 @@ Downloads:
       HRef: ../unterhaltsvertrag-flyer.pdf
     - Title: Härtefallgesuch Infoblatt<br/>PDF Dokument
       HRef: ../haertefall-infoblatt.pdf
-    - Title: Härtefallgesuch Formuar<br/>Word Dokument
+    - Title: Härtefallgesuch Formular<br/>Word Dokument
       HRef: ../haertefall-gesuch.docx
     - Title: Anmeldung Kindesunterhalt<br/>PDF Dokument
       HRef: ../2023.11_UHV_Anmeldung.pdf
