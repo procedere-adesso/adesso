@@ -5,7 +5,8 @@ Weight: 1
 Downloads: 
     - Title: Gefärdungsabklärungen<br/>Flyer mit Detailbeschreibung
       HRef: ../abklaerungen-flyer.pdf
-
+    - Title: Gefärdungsabklärungen Plus SPF<br/>Flyer mit Detailbeschreibung
+      HRef: ../2023.11_ABK-PLUS.pdf
 ---
 
 Die Abklärungen erfolgen nach standardisierten Vorlagen. Sie geben
