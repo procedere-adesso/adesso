@@ -10,8 +10,8 @@ Downloads:
       HRef: ../2023.09_Treppe_SPF_Flyer.pdf
     - Title: SPF Anmeldung<br/>Word Formular
       HRef: ../2024.01_ANML_SPF.docx
-    - Title: SPF Leitbild
-      HRef: ../Leitbild_SPF.docx
+    - Title: SPF Leitbild<br/>Fachverband SPF
+      HRef: ../Leitbild_SPF.pdf
 ---
 
 Ziele der Sozialpädagogischen Familienbegleitung – Lösungen suchen, Veränderungen gemeinsam in Bewegung setzen
