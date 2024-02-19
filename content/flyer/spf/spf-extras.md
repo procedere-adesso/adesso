@@ -4,13 +4,13 @@ Date: 2023-07-25
 Weight: 2
 Contact: claudia_1
 Downloads: 
-    - Title: SPF-Plus<br/>Flyer mit Detailbeschreibung
-      HRef: ../spf-plus-flyer.pdf
+    
     - Title: SPF mit HTA<br/>Flyer mit Detailbeschreibung
       HRef: ../spf-hta-flyer.pdf
     - Title: SPW<br/>Flyer mit Detailbeschreibung
       HRef: ../5_2023.09_SPW_Flyer.pdf
-
+    - Title: SPW Anmeldung<br/>Word Dokument
+      HRef: ../2024.01_ANML_SPW.pdf
 ---
 
 ## SPF-Plus – Interventionsorientierte Abklärung
