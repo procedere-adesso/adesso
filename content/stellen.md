@@ -7,5 +7,6 @@ Downloads:
       HRef: 2024.07 Stelleninserat BBR.pdf
 
 ---
-Wir sind auf der Suche nach einem/einer sozialpädagogischen Besuchsbegleiter/in für die Wocheendeinsätze. 
+Wir sind auf der Suche nach einem/einer sozialpädagogische/n Besuchsbegleiter/in für die Wochenendeinsätze auf Stundenbasis. 
+
 Sind sie interessiert? Dann können sie sich gerne das Inserat durchlesen.
