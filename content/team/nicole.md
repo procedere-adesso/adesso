@@ -6,6 +6,8 @@ role: Familienbegleiterin
 email: nicole.jeker@adesso-sozialberatung.ch
 phone: 062 207 07 82
 edu:
+	- Master in Sozialer Arbeit (im Studium)
 	- Bachelor of Arts in Sozialer Arbeit
+	- Berufsbildnerin
 core:
 ---	
