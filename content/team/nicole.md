@@ -11,4 +11,7 @@ edu:
   - Bachelor of Arts in Sozialer Arbeit
   - Berufsbildnerin
 core:
+  - Langjährige Erfahrung als Fachfrau Betreuung Kinder - Alter von 3 Monaten bis 12 Jahren
+  - Erfahrung in der stationären Heimarbeit mit traumatisierten Kindern und Jugendlichen
+  - Systemische und ressourcenorientierte Arbeit in den Familien
 ---
