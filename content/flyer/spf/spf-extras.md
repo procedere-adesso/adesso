@@ -10,7 +10,7 @@ Downloads:
     - Title: SPW<br/>Flyer mit Detailbeschreibung
       HRef: ../5_2023.09_SPW_Flyer.pdf
     - Title: SPW Anmeldung<br/>Word Dokument
-      HRef: ../2024.07_ANML_SPW.pdf
+      HRef: ../2024.07_ANML_SPW.docx
 ---
 
 ## SPF-Plus – Interventionsorientierte Abklärung
