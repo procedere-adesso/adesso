@@ -4,7 +4,9 @@ Date: 2023-07-25
 Weight: 2
 Downloads:
   - Title: Begleitetes Besuchsrecht<br/>Flyer mit Detailbeschreibung
-    HRef: ../besuchsrecht-flyer.pdf
+    HRef: ../besuchsrecht-flyer.pdf 
+  - Title: Begleitetes Besuchsrecht<br/>Konzept
+    HRef: ../2024.07_BBR_Konzept.pdf
   - Title: Anmeldung Begleitetes Besuchsrecht<br/>Anmeldeformular (DOCX)
     HRef: ../2024.07_ANML_BBR.docx
   - Title: Besuchssontage<br/>Konzept Papier Kt. Solothurn
