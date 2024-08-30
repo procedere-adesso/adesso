@@ -3,7 +3,7 @@ Title: Freie Stellen
 Type: flyer
 Date: 2023-08-16
 Downloads: 
-    - Title: Stelleninserat Administration 40%/in<br/>PDF Download
+    - Title: Stelleninserat Administration 40 %<br/>PDF Download
       HRef: 2024.08_Stelleninserat_Admin.pdf
 
 ---
