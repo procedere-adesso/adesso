@@ -1,5 +1,6 @@
 ---
 title: Deborah Lanz
+sort: Lanz Deborah
 date: 03.09.2024
 role: Besuchsbegleiterin 
 email: deborahlanz@adesso-sozialberatung.ch

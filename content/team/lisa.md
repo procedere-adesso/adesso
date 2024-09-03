@@ -1,5 +1,6 @@
 ---
 title: Elisabeth Sogi
+sort: Sogi Elisabeth
 date: 03.09.2024
 role: Besuchsbegleiterin 
 email: elisabethsogi@adesso-sozialberatung.ch
