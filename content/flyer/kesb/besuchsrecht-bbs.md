@@ -8,7 +8,7 @@ Downloads:
   - Title: Begleitetes Besuchsrecht<br/>Konzept
     HRef: ../2024.07_BBR_Konzept.pdf
   - Title: Anmeldung Begleitetes Besuchsrecht<br/>Anmeldeformular (DOCX)
-    HRef: ../2024.07_ANML_BBR.docx
+    HRef: ../2024.09_ANML_BBR.docx
   - Title: Besuchssonntage<br/>Konzept Papier Kt. Solothurn
     HRef: ../bbs-konzept-so.pdf
   - Title: Besuchssonntage Olten<br/>Daten 2024
