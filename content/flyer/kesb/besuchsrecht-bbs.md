@@ -27,8 +27,8 @@ Downloads:
 Die begleiteten Besuchssonntage haben zum Ziel, Kindern zu ermöglichen, den von der Familie getrenntlebenden Elternteil in einem betreuten Rahmen zu treffen. Die begleiteten Besuchssonntage beschränken sich darauf, Räumlichkeiten, Verpflegung und Begleitung anzubieten.
 
 **Abmeldungen Besuchssonntag**
-
-Montag bis Freitag 08:30-12:00 Uhr und 13:30-17:00 Uhr 062 207 00 10
+<br>/>
+Montag bis Freitag 08:30-12:00 Uhr und 13:30-17:00 Uhr 062 207 00 10<br>/>
 Besuchssonntag 11:00-14:30 und/oder 14:30-17:00 Uhr 076 302 00 85
 
 
