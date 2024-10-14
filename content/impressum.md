@@ -6,7 +6,7 @@ Date: 2023-01-01
 
 ## Herausgeberin
 
-Adesso Sozialberatung\
+adesso - Soziale Arbeit in der Familie GmbH\
 Sonneggstrasse 11\
 4600 Olten
 
