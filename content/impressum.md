@@ -10,7 +10,7 @@ Adesso Sozialberatung\
 Sonneggstrasse 11\
 4600 Olten
 
-<info@adesso.ch>
+<kontakt@adesso-sozialberatung.ch>
 
 ## Handelsregistereintrag
 
