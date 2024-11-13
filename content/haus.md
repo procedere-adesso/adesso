@@ -10,7 +10,7 @@ Downloads:
     - Title: Leitbild<br/>PDF Download
       HRef: leitbild.pdf
     - Title: Organigramm<br/>PDF Download
-      HRef: 2024.09_Organigramm.pdf
+      HRef: 2024.11_Organigramm.pdf
 intro: |
   Wir freuen uns, Sie in unserem schönen Bürohaus  
   im Wohnquartier Fustlig/Säli auf der  
