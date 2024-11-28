@@ -6,8 +6,7 @@ role: Assistentin der Fallführenden
 email: nicole.leu@adesso-sozialberatung.ch
 phone: 062 207 07 81
 edu:
-  - Jahrelange Erfahrungen als kaufmännische Angestellte
-  - Detailshandelsangestellte
+  - Detailshandelsfachfrau EFZ
 core:
-  - Dienstleistungsorientiert
+  - Kommunikations- und Teamfähig
 ---
