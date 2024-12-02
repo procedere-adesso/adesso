@@ -7,6 +7,8 @@ email: nicole.leu@adesso-sozialberatung.ch
 phone: 062 207 07 81
 edu:
   - Detailshandelsfachfrau EFZ
+  - Jahrelange Erfahrung als Bürokauffrau und Assistentin
 core:
   - Kommunikations- und Teamfähig
+  - Dienstleistungsorientiert
 ---
