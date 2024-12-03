@@ -2,7 +2,7 @@
 title: Jonathan Zambrano
 sort: Zambrano Jonathan
 date: 2023-07-06
-role: Besuchsbegleitung Besuchssonntage
+role: Besuchsbegleiter Besuchssonntage
 email: besuchssonntag@adesso-sozialberatung.ch
 phone: 062 207 00 10
 edu:
