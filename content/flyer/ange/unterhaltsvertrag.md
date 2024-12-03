@@ -10,7 +10,7 @@ Downloads:
       HRef: ../haertefall-infoblatt.pdf
     - Title: Härtefallgesuch Formular<br/>Word Dokument
       HRef: ../haertefall-gesuch.docx
-    - Title: Anmeldung Kindesunterhalt<br/>PDF Dokument
+    - Title: Anmeldung Unterhaltsvertrag<br/>PDF Dokument
       HRef: ../2024.11_UHV_ANML.pdf
 ---
 
