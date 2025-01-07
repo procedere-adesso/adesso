@@ -14,6 +14,6 @@ edu:
 core:
   - Beratungen von Familien in komplexen Situationen
   - Vermittlung und Mediation bei (Hoch) Strittigkeit
-  - Fürungserfahrung in Betrieblicher Sozialberatung
+  - Führungserfahrung in Betrieblicher Sozialberatung
   - Führung von Kindes- und Erwachsenenschutzmandaten
 ---
