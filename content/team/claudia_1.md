@@ -7,11 +7,13 @@ email: claudia.meschi@adesso-sozialberatung.ch
 phone: 062 207 00 10
 edu:
   - Sozialarbeiterin & Sozialpädagogin FH
-  - Fachkurse in Besuchsregelung, Mediation und Kommunikation 
+  - Fachkurse in Besuchsregelung, Mediation, Kommunikation und Betriebsökonomie
+  - Dozentin im Bereich Führung und betriebliche Gesundheitserhaltung
   - CAS Gesundheitsmanagement Fachhochschule Luzern 
-  - Stressregulationstrainerin SZS
-  - Stressmanagement und Stressregulations-Trainerin, SZS (Schweiz. Zentrum Stressforschung)
+  - Stressmanagement und Stressregulations-Trainerin SZS (Schweiz. Zentrum Stressforschung)
 core:
   - Beratungen von Familien in komplexen Situationen
   - Vermittlung und Mediation bei (Hoch) Strittigkeit
+  - Fürungserfahrung in Betrieblicher Sozialberatung
+  - Führung von Kindes- und Erwachsenenschutzmandaten
 ---
