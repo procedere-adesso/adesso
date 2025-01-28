@@ -11,8 +11,8 @@ Downloads:
     HRef: ../2024.09_ANML_BBR.docx
   - Title: Besuchssonntage<br/>Konzept Papier Kt. Solothurn
     HRef: ../bbs-konzept-so.pdf
-  - Title: Besuchssonntage Olten<br/>Daten 2024
-    HRef: ../2024-BB-Olten-Daten.pdf    
+  - Title: Besuchssonntage Olten<br/>Daten 2025
+    HRef: ../2025-BB-Olten-Daten.pdf    
   - Title: Besuchssonntage Olten<br/>Merblatt (DOCX)
     HRef: ../bbs-olten-merkblatt.docx
   - Title: Besuchssonntage Olten<br/>Anmeldeformular (DOCX)
