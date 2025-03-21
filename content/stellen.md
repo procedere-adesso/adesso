@@ -3,10 +3,10 @@ Title: Freie Stellen
 Type: flyer
 Date: 2023-08-16
 Downloads: 
-    - Title: Stelleninserat Fachperson für Abklärungen im Kindes- und Erwachsenenschutz Freelancer (auf Stundenbasis)<br/>PDF Download
-      HRef: 2024.11_Stelleninserat_ABK.pdf
+    - Title: Stelleninserat Sachbearbeiterin Administration 60-80 % <br/>PDF Download
+      HRef: 2025.03 Stelleninserat Admin.pdf
 
 ---
-Fachperson für Abklärungen im Kindes- und Erwachsenenschutz Freelancer (auf Stundenbasis)
+Sachbearbeiterin Administration 60-80 %
 
-Wir sind auf der Suche nach Unterstützung in unserem Fachteam Abklärungen im Kindes- und Erwachsenenschutz. Haben wir Ihr Interesse geweckt? Dann können sie sich gerne das Inserat durchlesen.
+Wir sind auf der Suche nach Unterstützung in unserem Fachteam Administration im Kindes- und Erwachsenenschutz. Haben wir Ihr Interesse geweckt? Dann können sie sich gerne das Inserat durchlesen.
