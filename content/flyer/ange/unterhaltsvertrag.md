@@ -7,9 +7,9 @@ Downloads:
     - Title: Unterhaltsvertrag<br/>PDF Flyer mit Detailbeschreibung
       HRef: ../unterhaltsvertrag-flyer.pdf
     - Title: Härtefallgesuch Infoblatt<br/>PDF Dokument
-      HRef: ../2025_Infoblatt_Härtefallfonds.pdf
+      HRef: ../2025_Infoblatt_Hartefallfonds.pdf
     - Title: Härtefallgesuch Formular<br/>Word Dokument
-      HRef: ../2025_Gesuch_Härtefallfonds.docx
+      HRef: ../2025_Gesuch_Hartefallfonds.docx
     - Title: Anmeldung Unterhaltsvertrag<br/>PDF Dokument
       HRef: ../2025.04_UHV_ANML.pdf
 ---
