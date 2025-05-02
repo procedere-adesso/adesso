@@ -13,7 +13,7 @@ Downloads:
     HRef: ../bbs-konzept-so.pdf
   - Title: Besuchssonntage Olten<br/>Daten 2025
     HRef: ../2025-BB-Olten-Daten.pdf    
-  - Title: Besuchssonntage Olten<br/>Merblatt (PDF)
+  - Title: Besuchssonntage Olten<br/>Merkblatt (PDF)
     HRef: ../bbs-olten-merkblatt.pdf
   - Title: Besuchssonntage Olten<br/>Anmeldeformular (DOCX)
     HRef: ../bbs-olten-formular.docx
