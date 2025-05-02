@@ -13,8 +13,8 @@ Downloads:
     HRef: ../bbs-konzept-so.pdf
   - Title: Besuchssonntage Olten<br/>Daten 2025
     HRef: ../2025-BB-Olten-Daten.pdf    
-  - Title: Besuchssonntage Olten<br/>Merblatt (DOCX)
-    HRef: ../bbs-olten-merkblatt.docx
+  - Title: Besuchssonntage Olten<br/>Merblatt (PDF)
+    HRef: ../bbs-olten-merkblatt.pdf
   - Title: Besuchssonntage Olten<br/>Anmeldeformular (DOCX)
     HRef: ../bbs-olten-formular.docx
   - Title: Besuchssonntage Olten<br/>Notfallkonzept
@@ -40,3 +40,8 @@ und Eltern, die aus den unterschiedlichsten Gründen begleitet werden
 müssen, beziehungsweise bei denen Begleitungen angeordnet oder
 empfohlen wurden.
 
+**Abmeldungen Begleitetes Besuchsrecht**
+
+Montag bis Freitag 08:30-12:00 Uhr und 13:30-17:00 Uhr 062 207 00 10
+
+Wochenenden: gemäss Vereinbarung mit der Begleitperson
