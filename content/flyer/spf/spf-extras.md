@@ -7,10 +7,12 @@ Downloads:
     
     - Title: SPF mit HTA<br/>Flyer mit Detailbeschreibung
       HRef: ../spf-hta-flyer.pdf
+    - Title: SPF Anmeldung mit HTA<br/>Word Dokument
+      HRef: ../2025.07_ANML_SPF_mit_HTA.docx        
     - Title: SPW<br/>Flyer mit Detailbeschreibung
       HRef: ../5_2023.09_SPW_Flyer.pdf
     - Title: SPW Anmeldung<br/>Word Dokument
-      HRef: ../2024.09_ANML_SPW.docx
+      HRef: ../2024.09_ANML_SPW.docx 
 ---
 
 ## SPF-Plus – Interventionsorientierte Abklärung
