@@ -1,6 +1,6 @@
 ---
 title: Ilona Schenk
-sort: Schenk Ilina
+sort: Schenk Ilona
 date: 2025-02-27
 role: Besuchsbegleiterin
 email: ilona.schenk@adesso-sozialberatung.ch
