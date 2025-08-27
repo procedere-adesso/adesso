@@ -6,12 +6,13 @@ Weight: 1
 Downloads:
     - Title: Unterhaltsvertrag<br/>PDF Flyer mit Detailbeschreibung
       HRef: ../unterhaltsvertrag-flyer.pdf
+    - Title: Anmeldung Unterhaltsvertrag<br/>PDF Dokument
+      HRef: ../2025.06_UHV_ANML.pdf
     - Title: Härtefallgesuch Infoblatt<br/>PDF Dokument
       HRef: ../2025_Infoblatt_Hartefallfonds.pdf
     - Title: Härtefallgesuch Formular<br/>Word Dokument
       HRef: ../2025_Gesuch_Hartefallfonds.docx
-    - Title: Anmeldung Unterhaltsvertrag<br/>PDF Dokument
-      HRef: ../2025.06_UHV_ANML.pdf
+
 ---
 
 Seit dem 01. Januar 2017 ist das neue Unterhaltsrecht in Kraft getreten. Die
