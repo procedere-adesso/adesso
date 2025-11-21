@@ -6,7 +6,7 @@ Weight: 3
 Type: flyer
 Downloads: 
     - Title: Tarife<br/>PDF Download
-      HRef: 2024 Tarife Allgemein.pdf
+      HRef: 2026 Tarife Allgemein.pdf
     - Title: Leitbild<br/>PDF Download
       HRef: leitbild.pdf
     - Title: Organigramm<br/>PDF Download
