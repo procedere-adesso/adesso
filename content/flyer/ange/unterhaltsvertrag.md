@@ -15,6 +15,10 @@ Downloads:
 
 ---
 
+Betriebsferien vom 24.12.2025 bis 04.01.2026
+
+Aufgrund der hohen Nachfrage kann die Bearbeitung der Unterhaltsverträge derzeit 3 bis 6 Monate dauern. Sind die eingereichten Unterlagen unvollständig, verlängert sich die Wartezeit entsprechend.
+
 Seit dem 01. Januar 2017 ist das neue Unterhaltsrecht in Kraft getreten. Die
 wohl wichtigste Änderung ist, dass die hauptbetreuende Person neu
 Anrecht auf Betreuungsunterhalt hat. Die Kinder sollen somit, im Vergleich
