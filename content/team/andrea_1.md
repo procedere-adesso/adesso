@@ -4,7 +4,7 @@ sort: Hachler Andrea
 date: 2023-07-06
 role: Familienbegleiterin
 email: andrea.haechler@adesso-sozialberatung.ch
-phone: 062 207 00 17
+phone: 062 207 00 12
 mobile: 076 246 26 95
 edu:
   - Bachelor of Arts in Sozialer Arbeit
