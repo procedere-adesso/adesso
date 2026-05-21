@@ -8,8 +8,8 @@ Downloads:
     HRef: ../fs-flyer.pdf
   - Title: Anmeldung Kinderorientierte Mediation</br>Word Dokument
     HRef: ../2026.03 ANML KOM.docx
-  - Title: Anmeldung Beratung hochstrittiger Eltern</br>Word Dokument
-    HRef: ../2026.03 ANML BEHO.docx
+  - Title: Anmeldung Kinderorienterte Beratung bei hochstrittigen Eltern</br>Word Dokument
+    HRef: ../2026.03 ANML KOB.docx
 ---
 * Freiwillige Sozialberatung
 
@@ -19,4 +19,4 @@ Downloads:
 
 * Elterncoaching
 
-* Beratung hochstrittiger Eltern
+* Kinderorientierte Beratung bei hochstrittigen Eltern
