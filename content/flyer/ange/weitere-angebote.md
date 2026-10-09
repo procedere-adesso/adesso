@@ -15,7 +15,7 @@ Downloads:
 
 * Kinderorientierte Mediation
 
-* Individuelle Begleitung von Jugendlichen
+* Jugendcoaching
 
 * Elterncoaching
 
