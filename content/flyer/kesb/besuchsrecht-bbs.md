@@ -3,8 +3,10 @@ Title: Begleitetes Besuchsrecht und Besuchssonntage
 Date: 2023-07-25
 Weight: 2
 Downloads:
-  - Title: Begleitetes Besuchsrecht<br/>Flyer mit Detailbeschreibung
-    HRef: ../besuchsrecht-flyer.pdf 
+  - Title: Begleitetes Besuchsrecht<br/>PDF mit Detailbeschreibung
+    HRef: ../2026.10 DB BBR.pdf 
+  - Title: Begleitetes Besuchsrecht mit integrierter Elternberatung<br/>PDF mit Detailbeschreibung
+    HRef: ../2026.10 DB BBR+.pdf 
   - Title: Begleitetes Besuchsrecht<br/>Konzept
     HRef: ../2024.07_BBR_Konzept.pdf
   - Title: Anmeldung Begleitetes Besuchsrecht<br/>Anmeldeformular (DOCX)
@@ -15,6 +17,8 @@ Downloads:
     HRef: ../bbs-konzept-so.pdf
   - Title: Besuchssonntage Olten<br/>Daten 2026
     HRef: ../2026-BB-Olten-Daten.pdf    
+  - Title: Besuchssonntage Olten<br/>Daten 2027
+    HRef: ../2027 BBS Daten.pdf     
   - Title: Besuchssonntage Olten<br/>Merkblatt (PDF)
     HRef: ../bbs-olten-merkblatt.pdf
   - Title: Besuchssonntage Olten<br/>Anmeldeformular (DOCX)
@@ -41,6 +45,12 @@ Wir bieten individuelle, bedarfsorientierte Besuchsbegleitungen für Kinder
 und Eltern, die aus den unterschiedlichsten Gründen begleitet werden
 müssen, beziehungsweise bei denen Begleitungen angeordnet oder
 empfohlen wurden.
+
+Ergänzend bieten wir ein begleitetes Besuchsrecht mit integrierter Elternberatung an. Dieses richtet sich insbesondere 
+an Eltern, bei denen Konflikte oder unterschiedliche Auffassungen die Zusammenarbeit erschweren. Im Rahmen der 
+Elternberatung erhalten die Eltern einen strukturierten Rahmen, um Themen rund um die Erziehung und Entwicklung
+ihrer Kinder gemeinsam zu besprechen, gegenseitiges Verständnis zu fördern und konstruktive Lösungen im Interesse
+des Kindes zu erarbeiten. Weitere Informationen dazu finden Sie in der entsprechenden Detailbeschreibung.
 
 **Abmeldungen Begleitetes Besuchsrecht**
 
