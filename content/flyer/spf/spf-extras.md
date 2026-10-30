@@ -24,6 +24,8 @@ Kombination von Diagnostik, Beratung und Intervention
 * Empfehlungen zum weiteren Vorgehen
 * Abschlussbericht
 
+Mehr zu dem Thema finden sie unter dem Thema Abklärungen.
+
 ## SPF mit Haushalttraining adesso
 
 Das Haushalts Training adesso HTA ist ein unterstützendes Zusatzangebot

@@ -32,3 +32,12 @@ Ressourcen
 * Die Eltern werden zu aktiver Mitarbeit und zur Kooperation motiviert
 * Das erweiterte familiäre, soziale und professionelle Bezugssystem wird
 einbezogen
+
+## SPF-Plus – Interventionsorientierte Abklärung
+
+Kombination von Diagnostik, Beratung und Intervention
+
+* Situationseinschätzungen, Unterstützungsmassnahmen, Erprobungsphasen, {{<nobreak>}}Treffen von Vereinbarungen{{</nobreak>}}
+* Abschliessende Analyse und Bewertung des Begleitprozesses
+* Empfehlungen zum weiteren Vorgehen
+* Abschlussbericht

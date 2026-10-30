@@ -39,7 +39,7 @@ Montag bis Freitag 08:30-12:00 Uhr und 13:30-17:00 Uhr 062 207 00 10
 Besuchssonntag 11:00-14:30 und/oder 14:30-17:00 Uhr 076 302 00 85 (keine Textnachrichten)
 
 
-## Begleitetes Besuchsrecht und Begleitete Übergaben
+## Begleitetes Besuchsrecht und begleitete Übergaben
 
 Wir bieten individuelle, bedarfsorientierte Besuchsbegleitungen für Kinder
 und Eltern, die aus den unterschiedlichsten Gründen begleitet werden
