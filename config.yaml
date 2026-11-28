@@ -1,12 +1,22 @@
-languageCode: de-ch
+baseURL: https://www.adesso-sozialberatung.ch/
+locale: de-ch
 title: Adesso Olten
 theme: wl-theme
 relativeURLs: true
 params:
   logo: adesso_logo.svg
   favicon: adesso_favicon.png
+  styles:
+    wl-orange: "#f0871b"
+    wl-blue: "#1382bb"
+    wl-black: "#000"
+    wl-white: "#fff"
+    wl-footer-color: "#fff"
 imaging:
-  quality: 90
   resampleFilter: Lanczos
-  hint: picture
   anchor: Top
+  jpeg:
+    quality: 90
+  webp:
+    quality: 90
+    hint: picture
